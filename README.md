@@ -13,7 +13,7 @@ Xenobots are tiny living robots created from frog stem cells (Xenopus laevis) an
 
 ---
 
-## 🛠️ How We Designed Them
+## 🛠️ How they were Designed 
 
 - Used evolutionary simulations to test thousands of body plans
 - Selected optimal designs for behaviors like movement and particle collection
